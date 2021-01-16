@@ -1,0 +1,41 @@
+#bg{
+   background-color: rgb(174, 109, 235);
+   width: 1550px;
+   height:721px;
+}
+#upper{
+    background-color:white;
+    width:1000px;
+    height:600px;
+    position: absolute;
+    left:18%;
+    top:8%;
+}
+#logo{
+    position: absolute;
+    left:25%;
+    bottom:75%;
+}
+#form {
+    width:180px;
+    position: relative;
+    top:150px;
+}
+#rightreg{
+    position: relative;
+    left:650px;
+    bottom:260px;
+}
+#leftreg{
+    position: relative;
+    left: 120px;
+}
+#button{
+    position: relative;
+    left:420px;
+    bottom:90px;
+}
+body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
